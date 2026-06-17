@@ -26,7 +26,7 @@
     <text x="26" y="204"><tspan fill="#7dcfff">kernel-gen agents</tspan><tspan fill="#565f89">   — </tspan><tspan fill="#c0caf5">LLMs that auto-write &amp; tune GPU operators</tspan></text>
     <text x="224" y="230" fill="#565f89">across CUDA · Triton · CUTLASS</text>
     <text x="26" y="256"><tspan fill="#7dcfff">agent harness arch</tspan><tspan fill="#565f89">  — </tspan><tspan fill="#c0caf5">context · memory · multi-agent · long-horizon</tspan></text>
-    <text x="224" y="282"><tspan fill="#565f89">↳ </tspan><tspan fill="#7dcfff">harness-craft</tspan><tspan fill="#565f89">  </tspan><tspan fill="#e0af68">★ 86</tspan></text>
+    <text x="224" y="282"><tspan fill="#565f89">↳ </tspan><tspan fill="#7dcfff">harness-craft</tspan></text>
 
     <!-- foundation tree -->
     <text x="26" y="334"><tspan fill="#7aa2f7">yuxiao@dev</tspan><tspan fill="#565f89"> ~ %</tspan><tspan fill="#bb9af7"> tree</tspan><tspan fill="#c0caf5"> foundation/</tspan></text>
