@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/terminal.svg" alt="Yuxiao Wang — AI Infrastructure Engineer @ Alibaba Group" width="820" />
+  <img src="assets/terminal.svg" alt="Yuxiao Wang — AI Infrastructure Engineer @ Alibaba Group" width="720" />
 </p>
 
 <p align="center">
