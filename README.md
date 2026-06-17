@@ -38,8 +38,6 @@ Become the richest person alive. Current roadmap:
 3. `# TODO: figure out the part where this makes me rich`
 4. **Profit.** 📈
 
-Step 3 is under active research. Open to seed funding, spare H100s, and good ideas for step 3.
-
 ### 🚀 Featured
 
 <a href="https://github.com/YuxiaoWang-520/harness-craft">
