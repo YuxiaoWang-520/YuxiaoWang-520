@@ -13,23 +13,23 @@
   <circle cx="30" cy="23" r="6" fill="#ff5f56"/>
   <circle cx="52" cy="23" r="6" fill="#ffbd2e"/>
   <circle cx="74" cy="23" r="6" fill="#27c93f"/>
-  <text x="358" y="27" text-anchor="middle" font-size="13" fill="#565f89">yuxiao@alibaba — zsh</text>
+  <text x="358" y="27" text-anchor="middle" font-size="13" fill="#565f89">yuxiao@dev — zsh</text>
 
   <g font-size="15">
     <!-- whoami -->
-    <text x="26" y="74"><tspan fill="#7aa2f7">yuxiao@alibaba</tspan><tspan fill="#565f89"> ~ %</tspan><tspan fill="#bb9af7"> whoami</tspan></text>
+    <text x="26" y="74"><tspan fill="#7aa2f7">yuxiao@dev</tspan><tspan fill="#565f89"> ~ %</tspan><tspan fill="#bb9af7"> whoami</tspan></text>
     <text x="26" y="100"><tspan fill="#c0caf5">Yuxiao Wang</tspan><tspan fill="#565f89">  ·  </tspan><tspan fill="#c0caf5">AI Infrastructure Engineer</tspan><tspan fill="#565f89"> @ </tspan><tspan fill="#c0caf5">Alibaba Group</tspan></text>
     <text x="26" y="126" fill="#565f89" font-style="italic"># building agents that write the infra — so the infra writes itself</text>
 
     <!-- focus -->
-    <text x="26" y="178"><tspan fill="#7aa2f7">yuxiao@alibaba</tspan><tspan fill="#565f89"> ~ %</tspan><tspan fill="#bb9af7"> cat</tspan><tspan fill="#c0caf5"> focus.md</tspan></text>
+    <text x="26" y="178"><tspan fill="#7aa2f7">yuxiao@dev</tspan><tspan fill="#565f89"> ~ %</tspan><tspan fill="#bb9af7"> cat</tspan><tspan fill="#c0caf5"> focus.md</tspan></text>
     <text x="26" y="204"><tspan fill="#7dcfff">kernel-gen agents</tspan><tspan fill="#565f89">   — </tspan><tspan fill="#c0caf5">LLMs that auto-write &amp; tune GPU operators</tspan></text>
     <text x="224" y="230" fill="#565f89">across CUDA · Triton · CUTLASS</text>
     <text x="26" y="256"><tspan fill="#7dcfff">agent harness arch</tspan><tspan fill="#565f89">  — </tspan><tspan fill="#c0caf5">context · memory · multi-agent · long-horizon</tspan></text>
     <text x="224" y="282"><tspan fill="#565f89">↳ </tspan><tspan fill="#7dcfff">harness-craft</tspan><tspan fill="#565f89">  </tspan><tspan fill="#e0af68">★ 86</tspan></text>
 
     <!-- foundation tree -->
-    <text x="26" y="334"><tspan fill="#7aa2f7">yuxiao@alibaba</tspan><tspan fill="#565f89"> ~ %</tspan><tspan fill="#bb9af7"> tree</tspan><tspan fill="#c0caf5"> foundation/</tspan></text>
+    <text x="26" y="334"><tspan fill="#7aa2f7">yuxiao@dev</tspan><tspan fill="#565f89"> ~ %</tspan><tspan fill="#bb9af7"> tree</tspan><tspan fill="#c0caf5"> foundation/</tspan></text>
     <text x="26" y="360" fill="#7aa2f7">foundation/</text>
     <text x="26" y="386"><tspan fill="#565f89">├── </tspan><tspan fill="#7aa2f7">training-inference/</tspan><tspan x="248" fill="#9aa5ce">Megatron-LM · vLLM · SGLang · RTP-LLM</tspan></text>
     <text x="26" y="412"><tspan fill="#565f89">├── </tspan><tspan fill="#7aa2f7">parallelism/</tspan><tspan x="248" fill="#9aa5ce">TP · PP · EP · DP · DualPipe · EPLB</tspan></text>
@@ -38,7 +38,7 @@
     <text x="26" y="490"><tspan fill="#565f89">└── </tspan><tspan fill="#7aa2f7">post-training-rl/</tspan><tspan x="248" fill="#9aa5ce">OpenRLHF · verl · ROLL</tspan></text>
 
     <!-- life goal -->
-    <text x="26" y="542"><tspan fill="#7aa2f7">yuxiao@alibaba</tspan><tspan fill="#565f89"> ~ %</tspan><tspan fill="#bb9af7"> ./life-goal</tspan><tspan fill="#c0caf5"> --status</tspan></text>
+    <text x="26" y="542"><tspan fill="#7aa2f7">yuxiao@dev</tspan><tspan fill="#565f89"> ~ %</tspan><tspan fill="#bb9af7"> ./life-goal</tspan><tspan fill="#c0caf5"> --status</tspan></text>
     <text x="26" y="568"><tspan fill="#565f89">[1]</tspan><tspan fill="#c0caf5"> agent writes GPU kernels </tspan><tspan fill="#414868">............</tspan><tspan fill="#9ece6a"> done</tspan></text>
     <text x="26" y="594"><tspan fill="#565f89">[2]</tspan><tspan fill="#c0caf5"> agent harness does the rest </tspan><tspan fill="#414868">.........</tspan><tspan fill="#e0af68"> wip</tspan></text>
     <text x="26" y="620"><tspan fill="#565f89">[3]</tspan><tspan fill="#565f89" font-style="italic"> # TODO: the part that makes me rich</tspan></text>
