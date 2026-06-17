@@ -49,32 +49,4 @@ Step 3 is under active research. Open to seed funding, spare H100s, and good ide
 > **harness-craft** — a composable library of **skills & rules for AI coding agents**: repo memory,
 > long-horizon execution, multi-agent coordination, TDD, security review, and delivery automation.
 
-### 🛠️ Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Triton](https://img.shields.io/badge/Triton-2C3E50?style=for-the-badge)
-![Ray](https://img.shields.io/badge/Ray-028CF0?style=for-the-badge&logo=ray&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YuxiaoWang-520&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuxiaoWang-520&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
-</p>
-
-### 📫 Reach me
-
-📍 **Hangzhou, China** · MEng @ Fudan University · AI Systems @ Alibaba TRE
-
-💬 Always up for a chat about **kernel-gen agents**, **agent harnesses**, or large-scale LLM infra —
-open an issue, or drop a ⭐ on [harness-craft](https://github.com/YuxiaoWang-520/harness-craft).
-
-<!-- Add when ready: [LinkedIn](https://linkedin.com/in/your-handle) · [Website](https://your-site) -->
-
 <sub>⚡ Fun fact: most of my commits live behind a corporate firewall, so this green-square garden looks suspiciously quiet. The kernels are real, I promise.</sub>
